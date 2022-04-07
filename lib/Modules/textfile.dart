@@ -1,5 +1,4 @@
-import 'package:vid/db/taskdatabase.dart';
-import 'package:vid/provider/dataprovider.dart';
+
 
 class text {
  static String a="What's up, ";
