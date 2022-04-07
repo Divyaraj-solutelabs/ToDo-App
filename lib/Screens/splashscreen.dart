@@ -6,10 +6,10 @@ import 'package:hive/hive.dart';
 import 'package:provider/provider.dart';
 import 'package:vid/Screens/task_screen.dart';
 import 'package:vid/Screens/welcome_screen.dart';
-import 'package:vid/db/taskdatabase.dart';
+
 
 import '../Loginhive/Lginhiv.dart';
-import '../db/database.dart';
+
 import '../provider/dataprovider.dart';
 
 class Splash extends StatefulWidget{
